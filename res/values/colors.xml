@@ -19,8 +19,8 @@ limitations under the License.
 
     <!-- You HAVE to include the first 4 defined colors always -->
     <!-- the text color drawn on the message for the body -->
-    <color name="textColorSent">#020202</color>
-    <color name="textColorReceived">#ffffff</color>
+    <color name="textColorSent">#ffffff</color>
+    <color name="textColorReceived">#020202</color>
 
     <!-- the text color drawn on the message for the date -->
     <color name="dateColorSent">#555555</color>
