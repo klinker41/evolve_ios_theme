@@ -73,7 +73,17 @@
     <favorites_list name="evolve_ios_theme" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="colors.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/res/values/colors.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="36" selection-start="1266" selection-end="1266" vertical-scroll-proportion="0.5410385" vertical-offset="238" max-vertical-offset="935">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -85,8 +95,8 @@
       <list>
         <option value="$PROJECT_DIR$/res/layout/message.xml" />
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values/colors.xml" />
       </list>
     </option>
   </component>
@@ -122,8 +132,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -176,6 +184,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -190,7 +200,8 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../evolve_theme" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager" selected="Android Application.evolve_ios_theme">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
@@ -227,19 +238,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -265,6 +263,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -421,16 +432,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="37" selection-start="834" selection-end="834" vertical-scroll-proportion="0.0" vertical-offset="127" max-vertical-offset="884">
-          <folding />
-        </state>
+        <state line="22" column="37" selection-start="834" selection-end="834" vertical-scroll-proportion="0.0" vertical-offset="127" max-vertical-offset="884" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="47" selection-start="892" selection-end="892" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="544">
-          <folding />
-        </state>
+        <state line="24" column="47" selection-start="892" selection-end="892" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="544" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
@@ -442,16 +449,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="37" selection-start="834" selection-end="834" vertical-scroll-proportion="0.0" vertical-offset="127" max-vertical-offset="884">
-          <folding />
-        </state>
+        <state line="22" column="37" selection-start="834" selection-end="834" vertical-scroll-proportion="0.0" vertical-offset="127" max-vertical-offset="884" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="47" selection-start="892" selection-end="892" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="544">
-          <folding />
-        </state>
+        <state line="24" column="47" selection-start="892" selection-end="892" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="544" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
@@ -463,23 +466,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="1117" selection-end="1117" vertical-scroll-proportion="0.0" vertical-offset="217" max-vertical-offset="816">
-          <folding />
-        </state>
+        <state line="30" column="0" selection-start="1117" selection-end="1117" vertical-scroll-proportion="0.0" vertical-offset="217" max-vertical-offset="816" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="1117" selection-end="1117" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="816">
-          <folding />
-        </state>
+        <state line="30" column="0" selection-start="1117" selection-end="1117" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="816" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="48" selection-start="701" selection-end="701" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="476">
-          <folding />
-        </state>
+        <state line="20" column="48" selection-start="701" selection-end="701" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="476" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
@@ -490,25 +487,21 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/message.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="115" column="63" selection-start="4885" selection-end="4885" vertical-scroll-proportion="0.0" vertical-offset="1279" max-vertical-offset="2125" />
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="1009" selection-end="1009" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="612">
-          <folding />
-        </state>
+        <state line="27" column="0" selection-start="1009" selection-end="1009" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="612" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="43" selection-start="980" selection-end="980" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="578">
-          <folding />
-        </state>
+        <state line="26" column="43" selection-start="980" selection-end="980" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="578" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
@@ -519,11 +512,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/message.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="63" selection-start="4885" selection-end="4885" vertical-scroll-proportion="1.2049911" vertical-offset="1279" max-vertical-offset="2125" />
+      </provider>
       <provider editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="115" column="63" selection-start="4885" selection-end="4885" vertical-scroll-proportion="1.2049911" vertical-offset="1279" max-vertical-offset="2125" />
+        <state line="37" column="0" selection-start="1482" selection-end="1482" vertical-scroll-proportion="-0.021775544" vertical-offset="642" max-vertical-offset="1292">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
@@ -535,14 +535,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="47" selection-start="953" selection-end="953" vertical-scroll-proportion="0.7118928" vertical-offset="0" max-vertical-offset="884">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="0" selection-start="1482" selection-end="1482" vertical-scroll-proportion="-0.021775544" vertical-offset="642" max-vertical-offset="1292">
+        <state line="33" column="36" selection-start="1266" selection-end="1266" vertical-scroll-proportion="0.5410385" vertical-offset="238" max-vertical-offset="935">
           <folding />
         </state>
       </provider>

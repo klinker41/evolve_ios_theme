@@ -30,6 +30,9 @@ limitations under the License.
     <color name="dateColorSent">#555555</color>
     <color name="dateColorReceived">#555555</color>
 
+    <!-- the link color for any links in a message text -->
+    <color name="link_color">#aa66cc</color>
+
     <!-- the color of the background for the drawer -->
     <color name="drawerBackground">#ffffff</color>
 
