@@ -26,7 +26,7 @@
 
     <item android:id="@android:id/progress">
         <scale android:scaleWidth="100%"
-               android:drawable="@drawable/classic_blue_progress_primary_holo_light" />
+               android:drawable="@drawable/ios_progress_primary_holo_light" />
     </item>
 
 </layer-list>
