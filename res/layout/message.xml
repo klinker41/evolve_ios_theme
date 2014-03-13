@@ -113,7 +113,8 @@ limitations under the License.
                     android:textSize="14sp"
                     android:ellipsize="marquee"
                     android:fadingEdge="horizontal"
-                    android:textColor="@color/textColorReceived"/>
+                    android:textColor="@color/textColorReceived"
+                    android:fontFamily="sans-serif-light"/>
 
         </LinearLayout>
     </LinearLayout>
