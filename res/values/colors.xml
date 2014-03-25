@@ -48,6 +48,9 @@ limitations under the License.
     <!-- the background color for the conversations, this is what shows behind the messages -->
     <color name="backgroundColor">#ffffff</color>
 
+    <!-- the color of the dividers in the conversation list -->
+    <!--<color name="conversationDividerColor">#000000</color>-->
+
     <!-- include any other colors you may want to use in your layout below -->
 
 </resources>
