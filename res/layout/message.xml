@@ -81,8 +81,6 @@ limitations under the License.
                     android:layout_gravity="center_vertical"
                     android:paddingRight="5dp"
                     android:textSize="12sp"
-                    android:ellipsize="marquee"
-                    android:fadingEdge="horizontal"
                     android:fontFamily="sans-serif-light"
                     android:textColor="@color/dateColorReceived"
                     android:layout_marginTop="-3dp"
@@ -111,7 +109,6 @@ limitations under the License.
                     android:paddingLeft="5dp"
                     android:paddingRight="5dp"
                     android:textSize="14sp"
-                    android:ellipsize="marquee"
                     android:fadingEdge="horizontal"
                     android:textColor="@color/textColorReceived"
                     android:fontFamily="sans-serif-light"/>
